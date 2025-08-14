@@ -37,7 +37,7 @@ public class AssignmentTest {
         System.out.println("Student3 First Name: " + student3.firstName);
         System.out.println("Student3 Last Name: " + student3.lastName);
         System.out.println("Student3 ID: " + student3.studentId);
-        System.out.println("ik i was supposed to put methods but i was crashing out too much so i gave up on finishing");
+        System.out.println("NEVER BACK DOWN NEVER WHAT??");
         
     }
 }
