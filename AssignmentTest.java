@@ -38,6 +38,13 @@ public class AssignmentTest {
         System.out.println("Student3 Last Name: " + student3.lastName);
         System.out.println("Student3 ID: " + student3.studentId);
         System.out.println("NEVER BACK DOWN NEVER WHAT??");
-        
+
+        double travelTime = car1.ride(120, 60); // 120 miles at 60 mph
+        System.out.println("Travel time: " + travelTime + " minutes");
+        System.out.println("Needs oil change? " + car1.checkOil());
+
+        dog1.bark();
+
+        System.out.println("5 + 3 = " + student1.calculate(5, 3, '+'));
     }
 }
